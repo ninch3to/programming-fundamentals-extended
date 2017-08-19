@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Value of a String", "01. Value of a String\01. Value of a String.csproj", "{3FB1FB58-A428-4B86-9C62-007310BCDD55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Diamond Problem", "02. Diamond Problem\02. Diamond Problem.csproj", "{AB34212D-0B51-4165-B7AC-6AE85625C1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Serialize String", "03. Serialize String\03. Serialize String.csproj", "{2EDD3ED5-D222-4296-96A6-554F18BFF8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Deserialize String", "04. Deserialize String\04. Deserialize String.csproj", "{7FA1EB7E-C8F2-45D2-A445-6F3EA8EED238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Nilapdromes", "08. Nilapdromes\08. Nilapdromes.csproj", "{EC96DED4-97CD-4D4B-AC95-40D387B0E2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Pyramidic", "07. Pyramidic\07. Pyramidic.csproj", "{2A41441D-B4D4-4D99-B9E5-CD8BD742E522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB1FB58-A428-4B86-9C62-007310BCDD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB1FB58-A428-4B86-9C62-007310BCDD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB1FB58-A428-4B86-9C62-007310BCDD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB1FB58-A428-4B86-9C62-007310BCDD55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB34212D-0B51-4165-B7AC-6AE85625C1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB34212D-0B51-4165-B7AC-6AE85625C1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB34212D-0B51-4165-B7AC-6AE85625C1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB34212D-0B51-4165-B7AC-6AE85625C1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDD3ED5-D222-4296-96A6-554F18BFF8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDD3ED5-D222-4296-96A6-554F18BFF8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDD3ED5-D222-4296-96A6-554F18BFF8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDD3ED5-D222-4296-96A6-554F18BFF8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA1EB7E-C8F2-45D2-A445-6F3EA8EED238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA1EB7E-C8F2-45D2-A445-6F3EA8EED238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA1EB7E-C8F2-45D2-A445-6F3EA8EED238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA1EB7E-C8F2-45D2-A445-6F3EA8EED238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC96DED4-97CD-4D4B-AC95-40D387B0E2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC96DED4-97CD-4D4B-AC95-40D387B0E2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC96DED4-97CD-4D4B-AC95-40D387B0E2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC96DED4-97CD-4D4B-AC95-40D387B0E2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A41441D-B4D4-4D99-B9E5-CD8BD742E522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A41441D-B4D4-4D99-B9E5-CD8BD742E522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A41441D-B4D4-4D99-B9E5-CD8BD742E522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A41441D-B4D4-4D99-B9E5-CD8BD742E522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

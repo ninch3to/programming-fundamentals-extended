@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\01. Value of a String\bin\Debug\_01.Value_of_a_String.exe.config
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\01. Value of a String\bin\Debug\_01.Value_of_a_String.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\01. Value of a String\bin\Debug\_01.Value_of_a_String.pdb
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\01. Value of a String\obj\Debug\01. Value of a String.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\01. Value of a String\obj\Debug\_01.Value_of_a_String.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\01. Value of a String\obj\Debug\_01.Value_of_a_String.pdb

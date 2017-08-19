@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\02. Diamond Problem\bin\Debug\_02.Diamond_Problem.exe.config
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\02. Diamond Problem\bin\Debug\_02.Diamond_Problem.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\02. Diamond Problem\bin\Debug\_02.Diamond_Problem.pdb
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\02. Diamond Problem\obj\Debug\_02.Diamond_Problem.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\02. Diamond Problem\obj\Debug\_02.Diamond_Problem.pdb
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - More Exercises\02. Diamond Problem\obj\Debug\02. Diamond Problem.csprojResolveAssemblyReference.cache
