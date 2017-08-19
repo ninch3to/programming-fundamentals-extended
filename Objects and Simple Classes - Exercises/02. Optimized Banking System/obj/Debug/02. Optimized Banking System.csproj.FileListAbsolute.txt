@@ -1,0 +1,5 @@
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\02. Optimized Banking System\bin\Debug\_02.Optimized_Banking_System.exe.config
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\02. Optimized Banking System\bin\Debug\_02.Optimized_Banking_System.exe
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\02. Optimized Banking System\bin\Debug\_02.Optimized_Banking_System.pdb
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\02. Optimized Banking System\obj\Debug\_02.Optimized_Banking_System.exe
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\02. Optimized Banking System\obj\Debug\_02.Optimized_Banking_System.pdb

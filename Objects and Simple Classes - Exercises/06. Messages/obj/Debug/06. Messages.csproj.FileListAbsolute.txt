@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\06. Messages\bin\Debug\_06.Messages.exe.config
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\06. Messages\bin\Debug\_06.Messages.exe
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\06. Messages\bin\Debug\_06.Messages.pdb
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\06. Messages\obj\Debug\06. Messages.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\06. Messages\obj\Debug\_06.Messages.exe
+C:\Users\Nina\Desktop\Solutions\Objects and Simple Classes - Exercises\06. Messages\obj\Debug\_06.Messages.pdb
