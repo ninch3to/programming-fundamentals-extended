@@ -1,0 +1,6 @@
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.exe.config
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.exe
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.pdb
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\01. Hornet Wings\obj\Debug\01. Hornet Wings.csprojResolveAssemblyReference.cache
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\01. Hornet Wings\obj\Debug\_01.Hornet_Wings.exe
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\01. Hornet Wings\obj\Debug\_01.Hornet_Wings.pdb

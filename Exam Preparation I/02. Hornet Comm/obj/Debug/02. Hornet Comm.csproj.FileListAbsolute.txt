@@ -1,0 +1,5 @@
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\02. Hornet Comm\obj\Debug\_02.Hornet_Comm.exe
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\02. Hornet Comm\obj\Debug\_02.Hornet_Comm.pdb
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.exe.config
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.exe
+c:\users\nina\documents\visual studio 2017\Projects\Exam Preparation I\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.pdb
