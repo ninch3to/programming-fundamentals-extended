@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\04. Shellbound\bin\Debug\_04.Shellbound.exe.config
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\04. Shellbound\bin\Debug\_04.Shellbound.exe
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\04. Shellbound\bin\Debug\_04.Shellbound.pdb
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\04. Shellbound\obj\Debug\04. Shellbound.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\04. Shellbound\obj\Debug\_04.Shellbound.exe
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\04. Shellbound\obj\Debug\_04.Shellbound.pdb

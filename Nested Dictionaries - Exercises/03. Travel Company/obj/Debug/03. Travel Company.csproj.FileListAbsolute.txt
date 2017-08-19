@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\03. Travel Company\bin\Debug\_03.Travel_Company.exe.config
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\03. Travel Company\bin\Debug\_03.Travel_Company.exe
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\03. Travel Company\bin\Debug\_03.Travel_Company.pdb
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\03. Travel Company\obj\Debug\03. Travel Company.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\03. Travel Company\obj\Debug\_03.Travel_Company.exe
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\03. Travel Company\obj\Debug\_03.Travel_Company.pdb

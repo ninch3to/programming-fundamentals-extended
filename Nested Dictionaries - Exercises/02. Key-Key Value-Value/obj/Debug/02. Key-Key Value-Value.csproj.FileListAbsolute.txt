@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\02. Key-Key Value-Value\bin\Debug\_02.Key_Key_Value_Value.exe.config
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\02. Key-Key Value-Value\bin\Debug\_02.Key_Key_Value_Value.exe
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\02. Key-Key Value-Value\bin\Debug\_02.Key_Key_Value_Value.pdb
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\02. Key-Key Value-Value\obj\Debug\02. Key-Key Value-Value.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\02. Key-Key Value-Value\obj\Debug\_02.Key_Key_Value_Value.exe
+C:\Users\Nina\Desktop\Solutions\Nested Dictionaries - Exercises\02. Key-Key Value-Value\obj\Debug\_02.Key_Key_Value_Value.pdb
