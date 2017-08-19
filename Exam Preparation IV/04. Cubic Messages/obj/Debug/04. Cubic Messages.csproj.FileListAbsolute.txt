@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Exam Preparation IV\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.exe.config
+C:\Users\Nina\Desktop\Solutions\Exam Preparation IV\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.exe
+C:\Users\Nina\Desktop\Solutions\Exam Preparation IV\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.pdb
+C:\Users\Nina\Desktop\Solutions\Exam Preparation IV\04. Cubic Messages\obj\Debug\04. Cubic Messages.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Exam Preparation IV\04. Cubic Messages\obj\Debug\_04.Cubic_Messages.exe
+C:\Users\Nina\Desktop\Solutions\Exam Preparation IV\04. Cubic Messages\obj\Debug\_04.Cubic_Messages.pdb
