@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Stuck Zipper", "06. Stuck Zipper\05. Stuck Zipper.csproj", "{B0953EA1-F501-4BAB-886F-5A7C1889C519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Note Statistics", "06. Note Statistics\05. Note Statistics.csproj", "{481B28A3-FA70-431F-853D-43AEDBF6F8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Winecraft", "06. Winecraft\06. Winecraft.csproj", "{15B991A6-B302-424A-90FD-3497683DB0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0953EA1-F501-4BAB-886F-5A7C1889C519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0953EA1-F501-4BAB-886F-5A7C1889C519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0953EA1-F501-4BAB-886F-5A7C1889C519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0953EA1-F501-4BAB-886F-5A7C1889C519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481B28A3-FA70-431F-853D-43AEDBF6F8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481B28A3-FA70-431F-853D-43AEDBF6F8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481B28A3-FA70-431F-853D-43AEDBF6F8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481B28A3-FA70-431F-853D-43AEDBF6F8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B991A6-B302-424A-90FD-3497683DB0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B991A6-B302-424A-90FD-3497683DB0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B991A6-B302-424A-90FD-3497683DB0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B991A6-B302-424A-90FD-3497683DB0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

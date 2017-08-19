@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Lists - 06.2017\06. Stuck Zipper\bin\Debug\_06.Stuck_Zipper.exe.config
+C:\Users\Nina\Desktop\Solutions\Lists - 06.2017\06. Stuck Zipper\obj\Debug\06. Stuck Zipper.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Lists - 06.2017\06. Stuck Zipper\bin\Debug\_06.Stuck_Zipper.exe
+C:\Users\Nina\Desktop\Solutions\Lists - 06.2017\06. Stuck Zipper\bin\Debug\_06.Stuck_Zipper.pdb
+C:\Users\Nina\Desktop\Solutions\Lists - 06.2017\06. Stuck Zipper\obj\Debug\_06.Stuck_Zipper.exe
+C:\Users\Nina\Desktop\Solutions\Lists - 06.2017\06. Stuck Zipper\obj\Debug\_06.Stuck_Zipper.pdb
