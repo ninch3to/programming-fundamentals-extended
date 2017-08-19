@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\07. Capitalize Words\bin\Debug\_07.Capitalize_Words.exe.config
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\07. Capitalize Words\bin\Debug\_07.Capitalize_Words.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\07. Capitalize Words\bin\Debug\_07.Capitalize_Words.pdb
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\07. Capitalize Words\obj\Debug\07. Capitalize Words.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\07. Capitalize Words\obj\Debug\_07.Capitalize_Words.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\07. Capitalize Words\obj\Debug\_07.Capitalize_Words.pdb

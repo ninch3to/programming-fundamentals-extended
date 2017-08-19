@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\06. Sentence Split\bin\Debug\_06.Sentence_Split.exe.config
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\06. Sentence Split\bin\Debug\_06.Sentence_Split.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\06. Sentence Split\bin\Debug\_06.Sentence_Split.pdb
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\06. Sentence Split\obj\Debug\06. Sentence Split.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\06. Sentence Split\obj\Debug\_06.Sentence_Split.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\06. Sentence Split\obj\Debug\_06.Sentence_Split.pdb
