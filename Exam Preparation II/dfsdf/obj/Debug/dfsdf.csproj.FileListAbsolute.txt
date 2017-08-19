@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\dfsdf\bin\Debug\dfsdf.exe.config
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\dfsdf\bin\Debug\dfsdf.exe
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\dfsdf\bin\Debug\dfsdf.pdb
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\dfsdf\obj\Debug\dfsdf.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\dfsdf\obj\Debug\dfsdf.exe
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\dfsdf\obj\Debug\dfsdf.pdb

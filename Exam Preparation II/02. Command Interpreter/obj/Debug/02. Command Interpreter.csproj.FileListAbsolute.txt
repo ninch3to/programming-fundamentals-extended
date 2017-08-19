@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe.config
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.pdb
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.exe
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.pdb
+C:\Users\Nina\Desktop\Solutions\Exam Preparation II\02. Command Interpreter\obj\Debug\02. Command Interpreter.csprojResolveAssemblyReference.cache

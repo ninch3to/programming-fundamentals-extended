@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. SoftUni Coffee Orders", "1. SoftUni Coffee Orders\1. SoftUni Coffee Orders.csproj", "{79576608-6FA3-4C31-ABD4-80CAAA01C484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Command Interpreter", "02. Command Interpreter\02. Command Interpreter.csproj", "{550B5F84-7883-4313-BEF5-7DBCF1A9DBF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dfsdf", "dfsdf\dfsdf.csproj", "{0CB1B786-9E8F-4457-B1D9-BCC87876A7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79576608-6FA3-4C31-ABD4-80CAAA01C484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79576608-6FA3-4C31-ABD4-80CAAA01C484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79576608-6FA3-4C31-ABD4-80CAAA01C484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79576608-6FA3-4C31-ABD4-80CAAA01C484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550B5F84-7883-4313-BEF5-7DBCF1A9DBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550B5F84-7883-4313-BEF5-7DBCF1A9DBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550B5F84-7883-4313-BEF5-7DBCF1A9DBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550B5F84-7883-4313-BEF5-7DBCF1A9DBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB1B786-9E8F-4457-B1D9-BCC87876A7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB1B786-9E8F-4457-B1D9-BCC87876A7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB1B786-9E8F-4457-B1D9-BCC87876A7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB1B786-9E8F-4457-B1D9-BCC87876A7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
