@@ -1,0 +1,5 @@
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\02. Placeholders\bin\Debug\_02.Placeholders.exe.config
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\02. Placeholders\bin\Debug\_02.Placeholders.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\02. Placeholders\bin\Debug\_02.Placeholders.pdb
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\02. Placeholders\obj\Debug\_02.Placeholders.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\02. Placeholders\obj\Debug\_02.Placeholders.pdb

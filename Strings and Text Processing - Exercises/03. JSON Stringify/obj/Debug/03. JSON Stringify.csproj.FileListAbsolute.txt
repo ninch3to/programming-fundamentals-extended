@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\03. JSON Stringify\bin\Debug\_03.JSON_Stringify.exe.config
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\03. JSON Stringify\bin\Debug\_03.JSON_Stringify.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\03. JSON Stringify\bin\Debug\_03.JSON_Stringify.pdb
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\03. JSON Stringify\obj\Debug\03. JSON Stringify.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\03. JSON Stringify\obj\Debug\_03.JSON_Stringify.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\03. JSON Stringify\obj\Debug\_03.JSON_Stringify.pdb

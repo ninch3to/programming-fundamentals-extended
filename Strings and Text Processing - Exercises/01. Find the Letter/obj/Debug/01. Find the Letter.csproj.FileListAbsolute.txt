@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\01. Find the Letter\bin\Debug\_01.Find_the_Letter.exe.config
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\01. Find the Letter\bin\Debug\_01.Find_the_Letter.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\01. Find the Letter\bin\Debug\_01.Find_the_Letter.pdb
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\01. Find the Letter\obj\Debug\01. Find the Letter.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\01. Find the Letter\obj\Debug\_01.Find_the_Letter.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\01. Find the Letter\obj\Debug\_01.Find_the_Letter.pdb

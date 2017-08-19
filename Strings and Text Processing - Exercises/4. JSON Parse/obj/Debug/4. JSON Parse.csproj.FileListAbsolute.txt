@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\4. JSON Parse\bin\Debug\_4.JSON_Parse.exe.config
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\4. JSON Parse\bin\Debug\_4.JSON_Parse.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\4. JSON Parse\bin\Debug\_4.JSON_Parse.pdb
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\4. JSON Parse\obj\Debug\4. JSON Parse.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\4. JSON Parse\obj\Debug\_4.JSON_Parse.exe
+C:\Users\Nina\Desktop\Solutions\Strings and Text Processing - Exercises\4. JSON Parse\obj\Debug\_4.JSON_Parse.pdb
