@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\01. Hello, Name\bin\Debug\_01.Hello__Name.exe.config
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\01. Hello, Name\bin\Debug\_01.Hello__Name.exe
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\01. Hello, Name\bin\Debug\_01.Hello__Name.pdb
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\01. Hello, Name\obj\Debug\01. Hello, Name.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\01. Hello, Name\obj\Debug\_01.Hello__Name.exe
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\01. Hello, Name\obj\Debug\_01.Hello__Name.pdb
