@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Lambda and LINQ - Exercises\camping\bin\Debug\camping.exe.config
+C:\Users\Nina\Desktop\Solutions\Lambda and LINQ - Exercises\camping\bin\Debug\camping.exe
+C:\Users\Nina\Desktop\Solutions\Lambda and LINQ - Exercises\camping\bin\Debug\camping.pdb
+C:\Users\Nina\Desktop\Solutions\Lambda and LINQ - Exercises\camping\obj\Debug\camping.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Lambda and LINQ - Exercises\camping\obj\Debug\camping.exe
+C:\Users\Nina\Desktop\Solutions\Lambda and LINQ - Exercises\camping\obj\Debug\camping.pdb
