@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.exe.config
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.exe
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.pdb
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\16. Array Symmetry\obj\Debug\16. Array Symmetry.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\16. Array Symmetry\obj\Debug\_16.Array_Symmetry.exe
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\16. Array Symmetry\obj\Debug\_16.Array_Symmetry.pdb

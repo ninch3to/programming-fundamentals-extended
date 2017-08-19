@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\15. Count of Capital Letters in Array\bin\Debug\_15.Count_of_Capital_Letters_in_Array.exe.config
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\15. Count of Capital Letters in Array\bin\Debug\_15.Count_of_Capital_Letters_in_Array.exe
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\15. Count of Capital Letters in Array\bin\Debug\_15.Count_of_Capital_Letters_in_Array.pdb
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\15. Count of Capital Letters in Array\obj\Debug\15. Count of Capital Letters in Array.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\15. Count of Capital Letters in Array\obj\Debug\_15.Count_of_Capital_Letters_in_Array.exe
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\15. Count of Capital Letters in Array\obj\Debug\_15.Count_of_Capital_Letters_in_Array.pdb
