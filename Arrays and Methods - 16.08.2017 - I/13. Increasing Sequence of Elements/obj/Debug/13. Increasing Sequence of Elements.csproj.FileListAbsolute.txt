@@ -1,0 +1,6 @@
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\13. Increasing Sequence of Elements\bin\Debug\_13.Increasing_Sequence_of_Elements.exe.config
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\13. Increasing Sequence of Elements\bin\Debug\_13.Increasing_Sequence_of_Elements.exe
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\13. Increasing Sequence of Elements\bin\Debug\_13.Increasing_Sequence_of_Elements.pdb
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\13. Increasing Sequence of Elements\obj\Debug\13. Increasing Sequence of Elements.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\13. Increasing Sequence of Elements\obj\Debug\_13.Increasing_Sequence_of_Elements.exe
+C:\Users\Nina\Desktop\Solutions\Arrays and Methods - Exercises - 16.08.2017\13. Increasing Sequence of Elements\obj\Debug\_13.Increasing_Sequence_of_Elements.pdb
